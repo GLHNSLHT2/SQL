@@ -1,4 +1,5 @@
----Create a Auto Dealer Database
+Here I've created an Auto Dealer Database. I've sorted the inventory by price, found the total cost of all vehicles, then sorted them by color showing the name color and price. I've also then found the highest 
+priced car on the lot.
 
 Create table cars (id Integer primary key, name text, color text, mileage Integer, price integer);
 
