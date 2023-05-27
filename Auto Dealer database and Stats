@@ -29,8 +29,7 @@ Select Sum(price) from cars;
 
 --- Display vehicles by name, color and price Ordering by color
 
-Select name, color, price from cars
-Order by color desc;
+Select name, color, price from cars Order by color desc;
 
 --- Find highest price
 
